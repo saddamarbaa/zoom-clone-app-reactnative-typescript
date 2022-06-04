@@ -1,13 +1,12 @@
 {
 	"expo": {
-		"name": "zoom-clone-app",
-		"slug": "zoom-clone-app",
+		"name": "zoom-clone",
+		"slug": "zoom-clone",
 		"version": "1.0.0",
 		"orientation": "portrait",
-		"icon": "./assets/images/icon.png",
+		"icon": "./assets/images/facIcon.png",
 		"scheme": "myapp",
 		"userInterfaceStyle": "light",
-		"backgroundColor": "#1e085a",
 		"splash": {
 			"image": "./assets/images/splash.png",
 			"resizeMode": "contain",
@@ -27,7 +26,7 @@
 			}
 		},
 		"web": {
-			"favicon": "./assets/images/favicon.png"
+			"favicon": "./assets/images/facIcon.png"
 		}
 	}
 }

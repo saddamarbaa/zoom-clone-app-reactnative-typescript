@@ -19,7 +19,7 @@ export default {
 }
 
 export const GlobalScreenOption = {
-	headerStyle: { backgroundColor: '#3A76F0' },
+	headerStyle: { backgroundColor: '#1b1c1c' },
 	headerTitleStyle: { color: '#fff' },
 	headerTintColor: '#fff',
 }
