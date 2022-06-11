@@ -38,7 +38,7 @@
 # Features
 
 - Real-Time Chat (Todo)
-- VVideo Call (Todo)
+- Video Call (Todo)
 
 
 
